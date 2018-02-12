@@ -87,4 +87,4 @@ foreach ($photoDirArray as $dir) {
     <!-- ============================================================== -->
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <script src="assets/jquery/jquery.min.js"></script>
-    <script src="assets/bootstrap/bootstrap.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
