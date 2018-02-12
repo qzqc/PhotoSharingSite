@@ -1,0 +1,1 @@
+for i in *.JPG; do convert -format '100 100 65' -quality 65 -resize 30% $i thumbnails/$i; done
